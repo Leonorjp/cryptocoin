@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827204439269",
+    "project_id": "cryptocoinflutter",
+    "storage_bucket": "cryptocoinflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827204439269:android:0e635ee19f91c84678180c",
+        "android_client_info": {
+          "package_name": "com.example.cryptocoin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7W0mXBas1SNpeW-TiHw41DeWeTFxgtiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
